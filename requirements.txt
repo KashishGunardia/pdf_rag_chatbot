@@ -7,3 +7,5 @@ langchain-groq
 faiss-cpu
 sentence-transformers
 python-dotenv
+pandas 
+numpy
